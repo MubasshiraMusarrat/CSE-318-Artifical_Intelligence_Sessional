@@ -14,4 +14,6 @@
 
 ## GRASP Algorithm
 
-[*problem specification*]()
+[*problem specification*](https://github.com/MubasshiraMusarrat/CSE-318-Artifical_Intelligence_Sessional/blob/main/GRASP/Assignment_03_Max_Cut.pdf)
+
+[*solution*](https://github.com/MubasshiraMusarrat/CSE-318-Artifical_Intelligence_Sessional/tree/main/GRASP/1905088)
